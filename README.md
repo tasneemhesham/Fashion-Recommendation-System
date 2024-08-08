@@ -36,7 +36,4 @@ Where:
 2. **Compute Weighted Scores**: For each product, calculate the weighted score using the above formula.
 3. **Rank Products**: Rank products based on their weighted scores to recommend the top-rated or trending items.
 
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/fashion-recommendation-system.git
+
