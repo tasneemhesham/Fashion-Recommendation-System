@@ -1,5 +1,4 @@
 # Fashion-Recommendation-System
-# Fashion Recommendation System
 
 ## Overview
 The Fashion Recommendation System is designed to recommend the most trending fashion products based on user search queries. For example, if a user searches for "Kurti," the system will recommend the most trending or highly-rated Kurtis available on the platform. The system leverages a dataset of fashion products collected from Myntra to provide relevant recommendations.
